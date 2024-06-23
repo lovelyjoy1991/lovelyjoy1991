@@ -1,4 +1,4 @@
-# Hello, I'm Zhijiao(Joy) Li. 👋
+# Hello, I'm Joy(Zhijiao). 👋
 ### A Full-stack Software Engineer
 - 🔭 I’m currently working on **[SeeQR](https://github.com/open-source-labs/SeeQR)**, an open-source, user-friendly platform for SQL database administration and query performance testing. My contributions include modernizing the application by updating dependencies, redesigning the UI/UX for better flexibility and responsiveness, improving TypeScript typing coverage by 30%, transferring state management to Redux Toolkit and increasing the test coverage by 18%.
 -  💬 Ask me about **React, Redux, Node.js**.
