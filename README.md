@@ -1,7 +1,9 @@
 # Hi, I'm Joy Li. 👋
 ### A Full-stack Software Engineer
 **Contact Me:**
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](https://www.typescriptlang.org/)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](lizhijiaocs@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/joyzhijiaoli)
 <br>
 **My Skills:**
 <br>
