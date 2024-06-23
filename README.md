@@ -3,7 +3,7 @@
 **Contact Me:**
 <br>
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](lizhijiaocs@gmail.com)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/joyzhijiaoli)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joyzhijiaoli)
 <br>
 **My Skills:**
 <br>
