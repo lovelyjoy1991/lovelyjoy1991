@@ -1,5 +1,9 @@
-## Hi, I'm Joy Li. 👋
-A Full-stack Software Engineer
+# Hi, I'm Joy Li. 👋
+### A Full-stack Software Engineer
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 - 🔭 I’m currently working on SeeQR
 - 📫 How to reach me: lizhijiaocs@gmail.com
 <!--
