@@ -1,9 +1,8 @@
 # Hello, I'm Joy(Zhijiao). 👋
 ### A Full-stack Software Engineer
 - 🔭 I’m currently working on **[SeeQR](https://github.com/open-source-labs/SeeQR)**, an open-source, user-friendly platform for SQL database administration and query performance testing. My contributions include modernizing the application by updating dependencies, redesigning the UI/UX for better flexibility and responsiveness, improving TypeScript typing coverage by 30%, transferring state management to Redux Toolkit and increasing the test coverage by 18%.
--  💬 Ask me about **React, Redux, Node.js**.
-- 👯 I’m looking to collaborate on **Open Source projects**.
-- 🌱 When I'm not coding, I enjoy traveling🏞️ and photography📸, capturing unique perspectives through my lens.
+- 💬 Ask me about **React, Redux, Node.js**.
+- 🌱 When I'm not coding, I enjoy traveling🏞️, photography📸, and cooking👩‍🍳!
   
   <br>
 **Connect with Me:**
@@ -54,7 +53,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ...
-
+- 👯 I’m looking to collaborate on **Open Source projects**.
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: I used to be **a Landscape Architect**.
 - 📫 How to reach me:
